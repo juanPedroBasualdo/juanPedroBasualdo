@@ -14,7 +14,10 @@ Para contacto, escribir un e-mail a mi casilla de correos a jpbasualdo@fi.uba.ar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/juan-pedro-basualdo-32b404225/" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge">
+    <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge">
+  </a>
+  <a href="https://stackoverflow.com/users/32316813/juan-pedro-basualdo" target="_blank">
+    <img alt="Static Badge" src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=orange&labelColor=black">
   </a>
 </div>
 
