@@ -10,6 +10,14 @@ Soy Juan Pedro Basualdo. Actualmente estoy estudiando Ingeniería en Informátic
 
 Para contacto, escribir un e-mail a mi casilla de correos a jpbasualdo@fi.uba.ar.
 
+## Socials
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/juan-pedro-basualdo-32b404225/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+</div>
+
 <!--
 **juanPedroBasualdo/juanPedroBasualdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
