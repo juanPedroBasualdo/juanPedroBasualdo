@@ -1,4 +1,5 @@
 <div style="text-align: justify">
+  
 ## [ENG] Hi there 👋
 
 I'm Juan Pedro Basualdo. I'm currently studying Computer Engineering at the Universidad de Buenos Aires. I'm working on a proyect porting the famous Tabletop Board Game Catán onto Java in order to learn how to use JavaFX and diferent design patterns such as MVC. I'm also learning the use of Mocks and how Dependency Inyection helps while testing. Finally, I am improving my knowledge on development tools for project managing like Github Workflows and Maven.
