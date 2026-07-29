@@ -1,16 +1,27 @@
 <div style="text-align: justify">
   
-## [ENG] Hi there 👋
+## Hi there!
 
-I'm Juan Pedro Basualdo. I'm currently studying Computer Engineering at the Universidad de Buenos Aires. I'm working on a proyect porting the famous Tabletop Board Game Catán onto Java in order to learn how to use JavaFX and diferent design patterns such as MVC. I'm also learning the use of Mocks and how Dependency Inyection helps while testing. Finally, I am improving my knowledge on development tools for project managing like Github Workflows and Maven.
+I'm Juan Pedro Basualdo. I'm a cybersecurity engineering undergraduate with a strong interest in cryptography, UNIX-like operative systems, Internet of Things and sustainable development. 
 
-To reach me, write an e-mail to my inbox @ jpbasualdo@fi.uba.ar.
+To reach me, write an e-mail to my inbox @ <a href="mailto:jpbasualdo@fi.uba.ar">jpbasualdo@fi.uba.ar</a> or <a href="mailto:jpbasualdo@proton.me">jpbasualdo@proton.me</a>.
 
-## [ES] Hola 👋
+## Professional focus.
 
-Soy Juan Pedro Basualdo. Actualmente estoy estudiando Ingeniería en Informática en la Universidad de Buenos Aires. Estoy trabajando en un proyecto de porteo del famoso juego de mesa Catán a Java para aprender como usar JavaFx y diferentes patrones de diseño como puede ser MVC. Además estoy aprendiendo el uso de Mocks y como la Inyección de Dependencias ayuda al Testing. Finalmente, estoy aumentando mi conocimiento sobre las herramientas de desarrollo para el manejo de proyectos como Github Workflows y Maven.
+I am currently embarking on a new phase of my professional development. I am heavily investing my time in advancing my proficiency in C. This is a strategic step toward my long-term career goals: transitioning into roles that involve low-level systems engineering, reverse engineering, and embedded environments.
 
-Para contacto, escribir un e-mail a mi casilla de correos a jpbasualdo@fi.uba.ar.
+## Projects.
+
+### Currently working on...
+
+**Salsa20 in C:** Implementing this cipher to understand the ins and outs of the scheme while leveling up my low-level programming skills.
+
+### Future projects.
+
+**Catan Refactor (Java):** Overhauling my previous implementation to enhance functionality and provide a smoother user experience.
+
+**Linux Terminal Emulator (C):** Rebuilding a former university group project entirely on my own. My goal is to expand its features, master C, and build the core components I didn't get to work on originally.
+
 </div>
 
 ## Socials
